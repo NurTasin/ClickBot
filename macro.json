@@ -1,0 +1,16 @@
+[
+    {
+        "macro-id":"banglacoinminer",
+        "hotplaces":[
+            [[0,0],30],
+            [[150,150],30],
+            [[300,300],30]
+        ]
+    },
+    {
+        "macro-id":"test",
+        "hotplaces":[
+            [[50,50],15]
+        ]
+    }
+]
