@@ -3,7 +3,7 @@ Automate every task that requires periodical clicks with click bot.
 
 
 ## JSON File Format
-```json
+```js
 [
     {
         "macro-id":"test",
